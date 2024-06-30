@@ -42,8 +42,7 @@ In the project directory, you can run the following scripts:
 ### Features
 
 1. Filter Functionality
-2. Infinite scroll feature
-3. Responsive design
+2. API integration
 
 ### Coding Standards
 
